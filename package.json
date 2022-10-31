@@ -24,7 +24,7 @@
     "gray-matter": "^4.0.3",
     "jss": "^10.7.1",
     "leaflet": "^1.7.1",
-    "next": "^11.1.2",
+    "next": "^12.1.0",
     "next-compose-plugins": "^2.2.1",
     "next-optimized-images": "^2.6.2",
     "notistack": "^2.0.2",
